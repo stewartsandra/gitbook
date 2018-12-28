@@ -1,6 +1,6 @@
 # Table of contents
 
-* [什麼是V2Ray](README.md)
+* [Sample](README.md)
 * [Untitled](untitled/README.md)
   * [Untitled](untitled/untitled-1.md)
 * [Untitled](untitled-2.md)
